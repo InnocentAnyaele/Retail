@@ -1,0 +1,10 @@
+retail
+
+customer - customer_id, name, email, phone, credit_worthiness
+
+orders - order_id, customer_id, product_id, number, date
+
+product - product_id, name, location, stock, date, number_of_orders, description
+
+
+staff - log, name, password
